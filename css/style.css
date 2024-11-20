@@ -1,7 +1,6 @@
 @import url("fonts.css");
 @import url("null.css");
 
-
 /* ----------*/
 body {
     font-family: "Source Sans Pro", sans-serif;
@@ -105,6 +104,7 @@ body {
 /* ----------*/
 .wrapper {
     min-width: 100%;
+
     display: flex;
     flex-direction: column;
 }
@@ -369,7 +369,7 @@ body {
 
     .item-activities__image:not(:last-child) {
         margin-bottom: 0px;
-    }
+    } 
 }
 
 /* ----------*/
