@@ -425,7 +425,7 @@ body {
     flex-basis: 408px;
 }
 
-.section-amenities__item:nth-child(6n + 3),
+.section-amenities__item:nth-child(6n + 3) .section-amenities__link,
 .section-amenities__item:nth-child(6n + 4) .section-amenities__link {
     aspect-ratio: 408 / 286;
 }
